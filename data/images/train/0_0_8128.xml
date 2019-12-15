@@ -1,0 +1,26 @@
+<annotation>
+	<folder>generated_2</folder>
+	<filename>0_0_8128.jpg</filename>
+	<path>C:\Users\jiyou\Desktop\generated_2\generated_2\0_0_8128.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>48</ymin>
+			<xmax>351</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>
